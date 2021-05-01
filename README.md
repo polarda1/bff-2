@@ -35,3 +35,33 @@ If you can't use this script or there is a bug in the script, please contact me
 #### Join groups facebook
 [![](https://img.shields.io/badge/Groups-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/310605552656196)
 #
+### Password List :
+#### Indonesia
+````
+sayang,anjing,kontol,memek,bangsat,
+rahasia,indonesia,bismillah,pantek,
+123456,12345678,goblok,ganteng,cantik,
+cintaku,sayangku
+````
+#### Malaysia & Singapure
+````
+malaysia,sayang,anjing,123456,12345678
+iloveyou,cintaku,sayangku,bismillah
+singapura,sayangawak
+````
+#### Bangladesh
+````
+bangladesh,102030,111222,112233,
+123456,12345678
+````
+#### India & pakistan
+````
+pakistan,mumbai,786786,111222,000786
+112233,pakistan786,123456,12345678,
+mumbai786,hindia
+````
+#
+
+
+
+

@@ -47,7 +47,7 @@ cintaku,sayangku
 ````
 malaysia,sayang,anjing,123456,12345678
 iloveyou,cintaku,sayangku,bismillah
-singapura,sayangawak
+singapura,rahasia,password
 ````
 #### Bangladesh
 ````
@@ -59,6 +59,10 @@ bangladesh,102030,111222,112233,
 pakistan,mumbai,786786,111222,000786
 112233,pakistan786,123456,12345678,
 mumbai786,hindia
+````
+#### Usa
+````
+qwerty,qwery,123456,iloveyou,12345678
 ````
 #
 

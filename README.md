@@ -15,7 +15,6 @@ $ python2 bff-2.py
 #
 #### Methode crack :
 Methode Mobile Facebook (slow crack) 45%ok<br>
-#
 #### Menu :<br>
 • 1 Dump Id Public <br>
 • 2 Dump Id Followers<br>

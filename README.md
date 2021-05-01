@@ -13,8 +13,9 @@ $ git clone https://github.com/Mark-Zuck/bff-2 <br>
 $ cd bff-2 <br>
 $ python2 bff-2.py
 #
-#### Methode crack
+#### Methode crack :
 Methode Mobile Facebook (slow crack) 45%ok<br>
+#
 #### Menu :<br>
 • 1 Dump Id Public <br>
 • 2 Dump Id Followers<br>

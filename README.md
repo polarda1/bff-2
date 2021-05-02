@@ -14,12 +14,15 @@ $ cd bff-2 <br>
 $ python2 bff-2.py
 #
 #### Info Menu :<br>
-• 1 Dump Id Public <br>
+• 1 Dump Id Public<br>
 • 2 Dump Id Followers<br>
-• 3 Start Crack<br>
-• 4 Cek Result<br>
-• 5 Update Tools<br>
-• 0 Remove Token/Cookie
+• 3 Dump Id Group<br>
+• 4 Dump Id Post/Like<br>
+• 5 Start Crack<br>
+• 6 Cek Result<br>
+• 7 Update Tools<br>
+• 8 Remove Token/Cookie<br>
+• 0 Logout<br>
 #### Methode crack :
 Methode Mobile Facebook (slow crack) 45%ok<br>
 #

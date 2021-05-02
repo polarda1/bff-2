@@ -24,7 +24,9 @@ $ python2 bff-2.py
 • 8 Remove Token/Cookie<br>
 • 0 Logout<br>
 #### Methode crack :
-Methode Mobile Facebook (slow crack) 45%ok<br>
+• 1 Methode mbasic (30%ok) crack fast<br>
+• 2 Methode mobile (45%ok) crack slow<br>
+• 3 Methode touch  (20%ok) crack use wifi<br>
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
 #

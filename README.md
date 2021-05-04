@@ -39,7 +39,10 @@ If you can't use this script or there is a bug in the script, please contact me
 #### Join groups facebook
 [![](https://img.shields.io/badge/Groups-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/310605552656196)
 #
-### Password List :
+
+<details open> 
+<summary> PASSWORD LIST </summary>
+
 #### Indonesia
 ````
 sayang,anjing,kontol,memek,bangsat,

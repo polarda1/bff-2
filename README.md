@@ -5,8 +5,10 @@ Coded by : Romi Afrizal
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pip2 install mechanize <br>
-$ pip install requests bs4 futures <br>
-$ pkg install python git <br>
+$ pip2 install requests <br>
+$ pip2 install bs4 <br>
+$ pip2 install futures <br>
+$ pkg install git <br>
 $ rm -rf bff-2 <br>
 $ git clone https://github.com/Mark-Zuck/bff-2 <br>
 $ cd bff-2 <br>

@@ -1,4 +1,4 @@
-## Hello word
+## Hello word👋
 ````
 Coded by : Romi Afrizal
 ````

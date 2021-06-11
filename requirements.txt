@@ -1,1 +1,4 @@
-
+mechanize
+futures
+requests
+bs4

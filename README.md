@@ -21,9 +21,9 @@ $ python2 bff-2.py<br>
 • 7 Remove Token/Cookie<br>
 • 0 Logout<br>
 #### Methode crack :
-• 1 Methode mbasic (30%ok) crack fast<br>
-• 2 Methode mobile (45%ok) crack slow<br>
-• 3 Methode touch  (20%ok) crack use wifi<br>
+• 1 Methode api+birthday (fast crack) 10%ok <br>
+• 2 Methode mbasic (slow crack) 20%ok<br>
+• 3 Methode mobile (very slow crack) 35%ok <br>
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
 #

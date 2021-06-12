@@ -14,12 +14,11 @@ $ python2 bff-2.py<br>
 #### Info Menu :<br>
 • 1 Dump Id Public<br>
 • 2 Dump Id Followers<br>
-• 3 Dump Id Group<br>
-• 4 Dump Id Post/Like<br>
-• 5 Start Crack<br>
-• 6 Cek Result<br>
-• 7 Update Tools<br>
-• 8 Remove Token/Cookie<br>
+• 3 Dump Id Post/Like<br>
+• 4 Start Crack<br>
+• 5 Cek Result<br>
+• 6 Update Tools<br>
+• 7 Remove Token/Cookie<br>
 • 0 Logout<br>
 #### Methode crack :
 • 1 Methode mbasic (30%ok) crack fast<br>

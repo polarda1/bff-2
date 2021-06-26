@@ -17,8 +17,9 @@ $ python2 bff-2.py<br>
 • 3 Dump Id Post/Like<br>
 • 4 Start Crack<br>
 • 5 Cek Result<br>
-• 6 Update Tools<br>
-• 7 Remove Token/Cookie<br>
+• 6 Change User Agent<br>
+• 7 Update Tools<br>
+• 8 Remove Token/Cookie<br>
 • 0 Logout<br>
 #### Methode crack :
 • 1 Methode api+birthday (fast crack) 10%ok <br>

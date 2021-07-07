@@ -25,9 +25,9 @@ $ python2 bff-2.py<br>
 • rm Hapus Akun<br>
 • 00 Keluar<br>
 #### Methode crack :
-• 1 Methode api+birthday (fast crack) 10%ok <br>
-• 2 Methode mbasic (slow crack) 20%ok<br>
-• 3 Methode mobile (very slow crack) 35%ok <br>
+• 1 Methode api (fast crack) <br>
+• 2 Methode free (slow crack)<br>
+• 3 Methode mobile (very slow crack) <br>
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
 #

@@ -12,15 +12,18 @@ $ pip2 install -r requirements.txt<br>
 $ python2 bff-2.py<br>
 #
 #### Info Menu :<br>
-• 1 Dump Id Public<br>
-• 2 Dump Id Followers<br>
-• 3 Dump Id Post/Like<br>
-• 4 Start Crack<br>
-• 5 Cek Result<br>
-• 6 Change User Agent<br>
-• 7 Update Tools<br>
-• 8 Remove Token/Cookie<br>
-• 0 Logout<br>
+• 01 Dump Id Public<br>
+• 02 Dump Id Followers<br>
+• 03 Dump Id Reaction Post<br>
+• 04 Dump Id Member Groups<br>
+• 05 Dump Id Pencarian Nama<br>
+• 06 Dump Id Pesan Mesengger<br>
+• 07 Mulai Crack<br>
+• 08 Ganti User Agent<br>
+• 09 Cek Hasil Crack<br>
+• 10 Donasi Ke Romi Afrizal<br>
+• rm Hapus Akun<br>
+• 00 Keluar<br>
 #### Methode crack :
 • 1 Methode api+birthday (fast crack) 10%ok <br>
 • 2 Methode mbasic (slow crack) 20%ok<br>

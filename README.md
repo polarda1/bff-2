@@ -21,7 +21,6 @@ $ python2 bff-2.py<br>
 • 07 Mulai Crack<br>
 • 08 Ganti User Agent<br>
 • 09 Cek Hasil Crack<br>
-• 10 Donasi Ke Romi Afrizal<br>
 • rm Hapus Akun<br>
 • 00 Keluar<br>
 #### Methode crack :

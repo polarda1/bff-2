@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # Hayo anak ajg mau ngapain?.
 
-import requests, bs4, sys, os, subprocess, sys, random, json, time, re, ipaddress
+import requests, bs4, sys, os, subprocess, sys, random, json, time, re
 reload(sys)
 sys.setdefaultencoding('utf-8')
 from datetime import datetime

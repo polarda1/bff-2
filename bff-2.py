@@ -14,7 +14,7 @@ kot = requests.get ("http://alvinxd.herokuapp.com/region/?").text
 con = requests.get ("http://alvinxd.herokuapp.com/country/?").text
 # BANNER #
 def banner():
-    print (' \x1b[1;91m•\x1b[1;93m•\x1b[1;92m•                                      \x1b[1;91m•\x1b[1;93m•\x1b[1;92m•\n\x1b[1;91m   _______  ______ _______ _______ _     _\n   |       |_____/ |_____| |       |____/ \n\x1b[1;97m   |_____  |    \\_ |     | |_____  |    \\_\n\n     \x1b[1;95m    • \x1b[0;93mCoded by \x1b[0;91m: \x1b[0;93mRomi Afrizal \x1b[1;95m•   \n \x1b[1;91m•\x1b[1;93m•\x1b[1;92m•                                      \x1b[1;91m•\x1b[1;93m•\x1b[1;92m• \n \x1b[1;95m# \x1b[1;96mFb  \x1b[1;91m : \x1b[1;96mfacebook.com/romi.29.04.03 \n \x1b[1;95m# \x1b[1;96mGit\x1b[1;91m  : \x1b[1;96mgithub.com/Mark-Zuck \n \x1b[1;97m# \x1b[1;91m---------------------------------------- \x1b[1;97m#  ')
+    print (' \x1b[1;91m•\x1b[1;93m•\x1b[1;92m•                                      \x1b[1;91m•\x1b[1;93m•\x1b[1;92m•\n\x1b[1;91m   _______  ______ _______ _______ _     _\n   |       |_____/ |_____| |       |____/ \n\x1b[1;97m   |_____  |    \\_ |     | |_____  |    \\_\n\n     \x1b[1;95m    • \x1b[0;93mCoded by \x1b[0;91m: \x1b[0;93mRav Pratama \x1b[1;95m•   \n \x1b[1;91m•\x1b[1;93m•\x1b[1;92m•                                      \x1b[1;91m•\x1b[1;93m•\x1b[1;92m• \n \x1b[1;95m# \x1b[1;96mFb  \x1b[1;91m : \x1b[1;96mfacebook.com/rav.29.04.03 \n \x1b[1;95m# \x1b[1;96mGit\x1b[1;91m  : \x1b[1;96mgithub.com/RavXD \n \x1b[1;97m# \x1b[1;91m---------------------------------------- \x1b[1;97m#  ')
     print (' \x1b[1;95m#\x1b[1;96m IP   \x1b[1;91m:\x1b[1;96m '+ip+'\x1b[1;91m ')
     
 def menu_x():

